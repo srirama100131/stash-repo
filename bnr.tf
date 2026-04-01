@@ -4,6 +4,7 @@ resource "azurerm_ai_foundry" "name" {
     location = azurerm_resource_group.power.location
 tags{
 owner="id"
+depat="it"
 }
 
 }
