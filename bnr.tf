@@ -5,6 +5,7 @@ resource "azurerm_ai_foundry" "name" {
 tags{
 owner="id"
 depat="it"
+gvhfghfgh
 }
 
 }
